@@ -5,7 +5,8 @@
               (a) average  number of materials in the conveyor
               (b) suitable length of conveyor
               (c) waitinging time of the material in the conveyor,
-     if arrival rate of material  follows poisson process 5 per minuates and serivice rate of lathe machine follows exponential distribution with mean serice rate 6 per minutes.
+      if arrival rate of material  follows poisson process 5 per minuates and serivice rate of lathe machine follows 
+     exponential distribution with mean serice rate 6 per minutes.
 
 
 # Software required :  
